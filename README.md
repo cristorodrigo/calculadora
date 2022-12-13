@@ -1,10 +1,10 @@
-<h1 align="cente">
+<h1 align="center">
 <img src="assets/calculadora.jpg">
 </h1>
 <br>
 <br>
 <br>
-<h1 align="cente"> Projeto desenvolvido com as seguintes tecnologias:</h1>
+<h1 align="center"> Projeto desenvolvido com as seguintes tecnologias:</h1>
 
 <br>
 <br>
@@ -16,4 +16,6 @@
 
 <br>
 <br>
-
+<h1 align="center">
+<img src="assets/Calculator.png"/>
+</h1>
